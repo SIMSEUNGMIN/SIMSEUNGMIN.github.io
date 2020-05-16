@@ -20,7 +20,7 @@ The following is characteristic of the CNN.
   
 This is example of CNN, CNN is composed of convolution layer, pooling layer and fully connected layer.
 ![image](https://user-images.githubusercontent.com/33623099/82106659-61654180-975d-11ea-8849-d474fa90aea9.png)  
-  
+
 This is types of CNN models.
 - ReNet-5  
 - AlexNet  
