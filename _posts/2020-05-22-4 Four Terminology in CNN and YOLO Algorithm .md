@@ -49,6 +49,9 @@ Finding 8 in this way is called sliding window. Some limited cases work well but
 YOLO is a single-step object detection algorithm. YOLO Algorithm divides images into grids of the same size. 
 Then the number of bounding boxes is estimated based on the predefined anchor boxes for each grid. 
 At this time, Calculate the reliability of each of the several expected bounding boxes, then leave the high-reliability bounding boxes aside and suppress the low-reliability bounding boxes near them.  
+This algorithm has two advantages.  
+First, It is a simple process and it's very fast.
+Second, There is a high contextual understanding of class by viewing the entire image at once. As a result, it shows a low background error (False-Positive) error.
 
 
 
