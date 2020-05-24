@@ -52,7 +52,17 @@ At this time, Calculate the reliability of each of the several expected bounding
 This algorithm has two advantages.  
 First, It is a simple process and it's very fast.
 Second, There is a high contextual understanding of class by viewing the entire image at once. As a result, it shows a low background error (False-Positive) error.
+  
+  
+  
+  
+Finally, I successed execution of YOLO algorithm...  
 
+This is result of execution.
+  
+![result](https://user-images.githubusercontent.com/33623099/82760493-c5a79580-9e2e-11ea-8cac-3da51a442147.jpg)  
+  
+It is definitely faster than other algorithms, but the accuracy seems to be a little lower.  
 
 
 
